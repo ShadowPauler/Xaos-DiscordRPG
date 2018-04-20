@@ -1,3 +1,8 @@
+# In memory of Peyton2017, Xaos-DiscordRPG
+She was a very fast learner, had the most unique idea's, and was the most friendly of everyone.
+She has vanished from Discord, Github, and from her projects, and now they sit here, in peace,
+awaiting for it's owner to return to rebirth this amazing project.
+
 # Xaos-DiscordRPG
 A fun Discord RPG made in Python.
 
